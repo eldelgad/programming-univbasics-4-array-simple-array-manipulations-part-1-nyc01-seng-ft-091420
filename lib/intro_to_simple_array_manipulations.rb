@@ -7,13 +7,13 @@ end
 # using unshift
 
 def using_unshift
-  array.unshift(string)
+  array.unshift()
 end
 
 # using pop
 
 def using_pop
-  array.pop(string)
+  array.pop()
 end
 
 # pop with args
@@ -25,7 +25,7 @@ end
 # using shift
 
 def using_shift
-  array.shift(string)
+  array.shift()
 end
 
 # shift with args
