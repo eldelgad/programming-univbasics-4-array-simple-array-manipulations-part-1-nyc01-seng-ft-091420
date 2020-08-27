@@ -13,7 +13,7 @@ end
 # using pop
 
 def using_pop(array)
-  array.pop(1)
+  array.pop()
 end
 
 # pop with args
