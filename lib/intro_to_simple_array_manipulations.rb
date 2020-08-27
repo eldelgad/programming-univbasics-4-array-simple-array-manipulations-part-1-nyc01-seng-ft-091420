@@ -13,23 +13,23 @@ end
 # using pop
 
 def using_pop(array)
-  array.pop()
+  array.pop(1)
 end
 
 # pop with args
 
-def pop_with_args
+def pop_with_args(array)
   array.pop(2)
 end
 
 # using shift
 
-def using_shift
+def using_shift(array)
   array.shift()
 end
 
 # shift with args
 
-def shift_with_args
+def shift_with_args(array)
   array.shift(2)
 end
