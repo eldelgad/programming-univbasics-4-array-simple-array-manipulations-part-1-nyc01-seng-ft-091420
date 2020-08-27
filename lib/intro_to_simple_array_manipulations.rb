@@ -6,7 +6,7 @@ end
 
 # using unshift
 
-def using_unshift(string)
+def using_unshift(array, string)
   array.unshift(string)
 end
 
